@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAds</string>
+
+    <string name ="banner_ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+    <!--   Note For Live example Need Only one Ad unit is enough for Testing  i am using this two-->
+    <string name="ad_unit_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
